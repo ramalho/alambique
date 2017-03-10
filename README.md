@@ -1,2 +1,3 @@
-# alambique
-Experimentos com Elixir
+# Alambique ⚗
+
+## 🝪 Experimentos com Elixir
