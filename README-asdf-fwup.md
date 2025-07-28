@@ -1,5 +1,9 @@
 # Using asdf tools with sudo
 
+Following the
+[installation instructions](https://hexdocs.pm/nerves/installation.html)
+for Nerves...
+
 After issuing these commands:
 
 ```sh
@@ -10,7 +14,7 @@ $ asdf set -u fwup latest
 ```
 
 `asdf` then wrote the fellowing,
-which may be useful one day (since `fwup` may require `sudo` do work)
+which may be useful one day (since `fwup` may require `sudo` do write to an SD card):
 
 ```
 fwup 1.13.2 installation was successful!
