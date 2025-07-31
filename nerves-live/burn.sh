@@ -1,0 +1,3 @@
+#!/bin/bash
+NERVES_WIFI_SSID='FJR_2G' NERVES_WIFI_PASSPHRASE='tremdas5' fwup $1
+
